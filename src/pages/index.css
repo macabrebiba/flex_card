@@ -1,0 +1,23 @@
+#inputVerification::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(59 130 246);
+  opacity: 1; /* Firefox */
+}
+
+input {
+    box-shadow: 2px 3px #888888;
+}
+
+#resend {
+  color: rgb(29 78 216);
+  opacity: 1; /* Firefox */
+  font-weight: bold;
+}
+
+svg {
+  margin: 5%;
+}
+
+path {
+  fill: rgb(29 78 216);
+}

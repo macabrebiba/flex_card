@@ -1,0 +1,111 @@
+#inputVerification::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(59 130 246);
+  opacity: 1; /* Firefox */
+}
+
+input {
+    box-shadow: 2px 3px #888888;
+}
+
+#resend {
+  color: rgb(29 78 216);
+  opacity: 1; /* Firefox */
+  font-weight: bold;
+}
+
+svg {
+  margin: 5%;
+}
+
+path {
+  fill: rgb(29 78 216);
+}
+h1 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+.creditCard {
+  align-self: center;
+  width: 100%;
+  justify-self: center;
+  left: 3px;
+  position: absolute;
+  font-weight: bold;
+}
+
+.solde {
+  align-self: flex-start;
+  position: absolute;
+  top: 10%;
+  font-size: 40px;
+  left: 5%;
+}
+
+.name {
+  align-self: flex-end;
+  position: absolute;
+  bottom: 5%;
+  font-size: 20px;
+  left: 5%;
+}
+.points {
+  align-self: flex-end;
+  justify-self: end;
+  position: absolute;
+  bottom: 5%;
+  font-size: 20px;
+  right: 8%;
+}
+
+.activityCard {
+  background: blue;
+  width: 90%;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 20px;
+  top: 20px;
+  border-radius: 15px;
+}
+
+.title {
+  position: absolute;
+  align-self: center;
+  color: white;
+  font-weight: bold;
+  left: 16%;
+  top: 35%;
+  font-size: 20px;
+}
+
+.points-plus {
+  align-self: center;
+  position: absolute;
+  justify-self: flex-end;
+  left: 80%;
+  top: 70%;
+  color: white;
+  font-weight: bold;
+}
+
+.price {
+  position: absolute;
+  align-self: center;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  right: 5%;
+}
+.plusButton {
+  background: #008522;
+  position: relative;
+  width: fit-content;
+  position: relative;
+  left: 82%;
+  top: 1em;
+  border-radius: 50px;
+}
